@@ -43,7 +43,9 @@ Open browser
 http://localhost:8081/lifestylelabels/login
 
 user name : admin password : admin@123
+
 or
+
 user name : user password : user@123
 
 will be redirected to
