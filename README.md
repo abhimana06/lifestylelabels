@@ -1,5 +1,5 @@
 # lifestylelabels
-its a shopping application includes products and its types
+Its a shopping application includes Products, Merchants and Categories 
 
 # Built With
 
