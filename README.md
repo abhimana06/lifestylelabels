@@ -50,6 +50,8 @@ will be redirected to
 
 http://localhost:8081/lifestylelabels/swagger-ui.html
 
+Please execute the data.sql script provided in MySql
+
 # What we will accomplish:
 
 User login
